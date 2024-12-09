@@ -37,7 +37,7 @@ To get started with this project, follow the steps below:
 ### 1. Clone the Project 
    First, clone the repository to your local machine using command :
      
-    git clone https://github.com/SobhagyaB/VRV-Security-Assignment
+    git clone https://github.com/SobhagyaB/VRV-Sec-Assignment-2024
         
 
 
